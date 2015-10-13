@@ -1,4 +1,4 @@
-# jQuery countTo
+# jQuery countTo  [![Build Status](https://travis-ci.org/SJAnderson/jquery-countTo.svg?branch=master)](https://travis-ci.org/SJAnderson/jquery-countTo)
 
 jQuery countTo animates countups and countdowns within target DOM elements. 
 
